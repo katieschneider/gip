@@ -1,5 +1,5 @@
 ---
-title: "7:00 Midterm"
+title: "7:00 Section"
 output: html_document
 ---
 
@@ -7,10 +7,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Katherine Schneider
-
-
-October 15,2017
+#####Katherine Schneider
+#####October 15,2017
+Here is some arithmetic:
 
 ```{r}
 x<-8
