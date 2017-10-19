@@ -1,0 +1,20 @@
+---
+title: "7:00 Midterm"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Katherine Schneider
+
+
+October 15,2017
+
+```{r}
+x<-8
+y<-10
+x^2/y
+```
+
